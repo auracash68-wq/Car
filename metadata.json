@@ -1,0 +1,6 @@
+{
+  "name": "Car Racing 2D",
+  "description": "Professional 2D arcade car racing game with 20 levels, custom garage upgrades, car customization, and high-speed highway action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
